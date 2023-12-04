@@ -41,5 +41,4 @@
 
 ## Connect with Me
 
-- LinkedIn: [LinkedIn Profile](LinkedIn_Profile_Link)
 - Email: [code.cedric.bandong@gmail.com](mailto:code.cedric.bandong@gmail.com)
