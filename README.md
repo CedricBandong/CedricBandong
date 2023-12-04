@@ -24,6 +24,11 @@
 - **Programming:**
   - Java
   - JavaScript
+  - HTML
+  - CSS
+
+- **Framework/s:**
+  - ReactJS
 
 - **Databases:**
   - IBM DB2 Cloud
