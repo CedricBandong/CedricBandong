@@ -1,6 +1,6 @@
 # Cedric Bandong
 
-👋 Hello! I'm Cedric Bandong, a passionate coder with a knack for database management. I love tackling complex problems and crafting elegant solutions. My journey in tech began when I embarked on the BS Information Technology program.
+👋 Hello! I'm Cedric Bandong, a passionate coder with a knack for database management. I love tackling complex problems and crafting elegant solutions. My journey in tech began when I embarked on the BS Computer Science program.
 
 ## Education
 
